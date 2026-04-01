@@ -26,8 +26,16 @@ https://github.com/dandushruthi-777/student-management-system
 
 ---
 
-## 📜 Certifications
-- HackerRank Certificate
+## ## 📜 Certifications
+
+- Web Development Internship – Prodigy InfoTech (March 2026)  
+- Letter of Recommendation – Prodigy InfoTech  
+- AWS Fundamentals  
+- Cisco Networking  
+- Microsoft 365  
+- TCS iON Career Edge  
+- Virtual Internship  
+- HackerRank Python Certificate  
 
 ---
 
